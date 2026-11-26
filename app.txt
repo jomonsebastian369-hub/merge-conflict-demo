@@ -1,1 +1,2 @@
-login feature added
+Login feature added
+Homepage feature added
